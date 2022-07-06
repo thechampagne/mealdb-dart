@@ -1,0 +1,9 @@
+name: mealdb
+description: TheMealDB API client.
+version: 1.0.0
+homepage: https://github.com/thechampagne/mealdb-dart
+repository: https://github.com/thechampagne/mealdb-dart
+documentation: https://pub.dev/documentation/mealdb/latest/
+
+environment:
+  sdk: '>=2.17.5 <3.0.0'
